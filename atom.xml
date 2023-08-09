@@ -3,23 +3,50 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://yue-ovoy.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2023-08-09T08:20:41.187Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://yue-ovoy.github.io/"/>
+  <updated>2023-08-09T09:13:42.278Z</updated>
+  <id>https://yue-ovoy.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Yue Huang</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>变分法简介Part 1.（Calculus of Variations）</title>
+    <link href="https://yue-ovoy.github.io/2023/08/09/variational-1/"/>
+    <id>https://yue-ovoy.github.io/2023/08/09/variational-1/</id>
+    <published>2023-08-09T08:50:06.000Z</published>
+    <updated>2023-08-09T09:13:42.278Z</updated>
+    
+    <content type="html"><![CDATA[<p>简而言之，泛函数是函数的函数，即它的输入是函数，输出是实数。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;简而言之，泛函数是函数的函数，即它的输入是函数，输出是实数。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="知乎文章" scheme="https://yue-ovoy.github.io/categories/%E7%9F%A5%E4%B9%8E%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="有限元" scheme="https://yue-ovoy.github.io/tags/%E6%9C%89%E9%99%90%E5%85%83/"/>
+    
+    <category term="力学" scheme="https://yue-ovoy.github.io/tags/%E5%8A%9B%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>如何用Hexo配合Github page搭建个人网站</title>
-    <link href="http://example.com/2023/08/08/hello-world/"/>
-    <id>http://example.com/2023/08/08/hello-world/</id>
+    <link href="https://yue-ovoy.github.io/2023/08/08/hello-world/"/>
+    <id>https://yue-ovoy.github.io/2023/08/08/hello-world/</id>
     <published>2023-08-09T04:57:52.043Z</published>
     <updated>2023-08-09T08:20:41.187Z</updated>
     
